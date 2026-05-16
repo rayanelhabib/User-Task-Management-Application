@@ -1,4 +1,4 @@
-# TP7 Java Cycle de Vie - Application Android
+# Simple User Task Management Application -- Java Mobile
 
 ## Description
 
